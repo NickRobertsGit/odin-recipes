@@ -1,1 +1,1 @@
-# odin-recipes
+This project will be used to catch myself back up, in terms of HTML knowledge. I've done this project before, but it'll be nice to freshen up.
